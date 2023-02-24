@@ -1,0 +1,9 @@
+kittyhawk2-prod.azureedge.net
+ketacdn.azureedge.net
+sdk.flightsimulator.com
+*.xboxlive.com
+*.tiles.virtualearth.net
+kh-k8s-prod-cdn.azureedge.net
+*.kittyhawk2.msgamestudios.com
+kittyhawk2.msgamestudios.com
+khmarketcdn.azureedge.net
